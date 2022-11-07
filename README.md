@@ -4,3 +4,4 @@ Linux
 Ansible
 Docker
 Kubernetes
+OpenShift
